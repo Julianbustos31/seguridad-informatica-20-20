@@ -1,0 +1,27 @@
+/*caja donde va el texto y toda la informacion*/
+#caja{
+	/*margen*/
+ margin: auto;
+ /*ancho*/
+ width: 1100px;
+ /*espacio de las margenes*/
+ padding: 0 20px 20px 20px;
+ /*ancho de los bordes y color*/
+ border: 3px solid black;
+
+}
+/*caja numero 2 borde del tutulo*/
+#caja2{
+
+  width: 1100px;
+  padding-top: 10px;
+  border: 1px solid black;
+  margin: 5px;
+}
+
+/*para todos los h2*/
+h2{
+	background-color: #3288D4;
+}
+
+
